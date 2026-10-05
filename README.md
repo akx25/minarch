@@ -1,4 +1,5 @@
 # minarch
+a minimalistic & simple https://github.com/fastfetch-cli/fastfetch type tool designed for Arch Linux!
 ## Requirements:
 + Python
 + termcolor
